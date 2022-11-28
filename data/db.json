@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title": "The debut",
+            "body":"To be frank with myself, I have slept on this gift for some time. The biggest excuse is that I’m doing my undergrad. I have this spring of endless ideas and scenarios in my head that need sharing and documentation but I end up holding a soliloquy where I articulate the same, feel great at the moment, heck I feel like I am gracing Oprah Winfrey’s interviewee chair!",
+            "author":"Pablo Sucre",
+            "id":1
+        },
+        {
+            "title": "As far as it may go",
+            "body":"It is a short-lived feeling of gratification after exhausting all the jargon my mind could recall and articulating an endless stream of back-to-back well punctuated sentences. A deep breath thereafter and a sly grin does it for me. I nailed it! Newsflash, back to reality dude! Look, some dirty dishes from last night still waiting on your royal highness to finish your mock interview with Oprah and come back to the sickening reality of life that is.",
+            "author":"Armani Mutiso",
+            "id":2
+        }
+    ]
+}
